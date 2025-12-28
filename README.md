@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Backend+Java+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -17,9 +17,61 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+👨‍💻 Backend Java Developer | Spring Boot · Jakarta EE · REST APIs
+
+- 🔧 What I do:
+  - Build **RESTful APIs** using **Java (Spring Boot / Jakarta EE)**
+  - Design backend logic, validation and business rules
+  - Work with authentication, sessions and role-based access
+  - Integrate backend services with web
+
+- 🧩 Also experienced with:
+  - **PHP, OctoberCMS** for backend-driven web applications
+  - **JavaScript, HTML & CSS** for frontend fundamentals
+  - **MySQL, SQL Server, PostgreSQL** and relational databases
+
+- 💬 Ask me about:
+  - Backend development with Java
+  - REST API design and consumption
+  - Server-side architecture and clean code
+  - Full-stack integration (backend ↔ frontend)
+
+- 🌱 Currently learning:
+  - Software architecture and design patterns
+  - Machine Learning fundamentals
+  - Advanced Git workflows
+
+- 🎯 Goals:
+  - Become a strong **Backend Java Engineer**
+  - Build scalable and maintainable systems
+  - Grow step by step toward a **Senior Software Engineer** role
+
+📌 Featured Backend Projects:
+
+- 🏨 **Hotel Management System**
+  - Backend built with **Java (Jakarta EE)**
+  - REST-style backend logic
+  - Frontend developed using **HTML, CSS & JavaScript**
+  - Focus on business logic, data handling and system structure
+
+- 🌸 **Floristry Management System**
+  - Backend developed in **PHP**
+  - Product management, categories and order logic
+  - Server-side validation and database interaction
+
+- 💰 **Financial Management System**
+  - Backend built with **PHP**
+  - Handles financial records, calculations and data consistency
+  - Focus on backend logic and structured data flow
+
+- 👟 **Shoe Store System**
+  - Backend developed in **PHP**
+  - Inventory and product management
+  - CRUD operations and backend validation
+
+- 🌐 **Static & Dynamic Websites**
+  - Built multiple websites using **HTML, CSS & JavaScript**
+  - Backend integration where required
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -75,25 +127,25 @@
 <br>
 
 </div>
- 
- ### 💳 Github Profile Summary Card
- 
+
+### 💳 Github Profile Summary Card
+
  <div align=center>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
   
  </div>
- 
- ### ⏱ Streak Stats
- 
+
+### ⏱ Streak Stats
+
  <div align=center>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
- 
- ### 📈 Activity Graph
- 
+
+### 📈 Activity Graph
+
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Most Used Language
@@ -103,11 +155,11 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
- 
- ### 🏆 Profile Trophies
+
+### 🏆 Profile Trophies
 
 <div align=center>
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
