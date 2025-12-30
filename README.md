@@ -11,67 +11,20 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Backend+Java+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 ---
 
 👨‍💻 Backend Java Developer | Spring Boot · Jakarta EE · REST APIs
 
-- 🔧 What I do:
-  - Build **RESTful APIs** using **Java (Spring Boot / Jakarta EE)**
-  - Design backend logic, validation and business rules
-  - Work with authentication, sessions and role-based access
-  - Integrate backend services with web
+- 🔧 Build RESTful APIs with **Java (Spring Boot / Jakarta EE)**
+- 🔐 Handle backend logic, authentication and business rules
+- 🔄 Integrate backend services with web frontends
+- 🧩 Experience with **PHP**, **MySQL / PostgreSQL / SQL Server**, and frontend fundamentals
 
-- 🧩 Also experienced with:
-  - **PHP, OctoberCMS** for backend-driven web applications
-  - **JavaScript, HTML & CSS** for frontend fundamentals
-  - **MySQL, SQL Server, PostgreSQL** and relational databases
-
-- 💬 Ask me about:
-  - Backend development with Java
-  - REST API design and consumption
-  - Server-side architecture and clean code
-  - Full-stack integration (backend ↔ frontend)
-
-- 🌱 Currently learning:
-  - Software architecture and design patterns
-  - Machine Learning fundamentals
-  - Advanced Git workflows
-
-- 🎯 Goals:
-  - Become a strong **Backend Java Engineer**
-  - Build scalable and maintainable systems
-  - Grow step by step toward a **Senior Software Engineer** role
-
-📌 Featured Backend Projects:
-
-- 🏨 **Hotel Management System**
-  - Backend built with **Java (Jakarta EE)**
-  - REST-style backend logic
-  - Frontend developed using **HTML, CSS & JavaScript**
-  - Focus on business logic, data handling and system structure
-
-- 🌸 **Floristry Management System**
-  - Backend developed in **PHP**
-  - Product management, categories and order logic
-  - Server-side validation and database interaction
-
-- 💰 **Financial Management System**
-  - Backend built with **PHP**
-  - Handles financial records, calculations and data consistency
-  - Focus on backend logic and structured data flow
-
-- 👟 **Shoe Store System**
-  - Backend developed in **PHP**
-  - Inventory and product management
-  - CRUD operations and backend validation
-
-- 🌐 **Static & Dynamic Websites**
-  - Built multiple websites using **HTML, CSS & JavaScript**
-  - Backend integration where required
+📌 Featured Projects:
+- 🏨 **Hotel Management System** — Java (Jakarta EE) + HTML/CSS/JS
+- 🌸 **Floristry System** — PHP backend
+- 💰 **Financial System** — PHP backend
+- 👟 **Shoe Store System** — PHP backend
 
 ## 🛠 &nbsp;Tech Stack
 
