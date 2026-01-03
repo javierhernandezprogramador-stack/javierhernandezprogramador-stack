@@ -70,9 +70,15 @@
 ![WildFly](https://img.shields.io/badge/WildFly-%23000000.svg?style=for-the-badge&logo=wildfly&logoColor=white)
 
 
-## 📊 Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+\### :zap: Actividad reciente
+
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
 
 ## 📊 Profile Statistics
 
