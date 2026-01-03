@@ -69,8 +69,9 @@
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![WildFly](https://img.shields.io/badge/WildFly-%23000000.svg?style=for-the-badge&logo=wildfly&logoColor=white)
 
+## 📊 Profile Statistics
 
-\### :zap: Actividad reciente
+### 🕒 Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Merged PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
 2. 💪 Opened PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
@@ -78,8 +79,6 @@
 4. 💪 Opened PR [#3](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
 5. ❌ Merged PR [#2](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
 <!--END_SECTION:activity-->
-
-## 📊 Profile Statistics
 
  <div align=center>
 
