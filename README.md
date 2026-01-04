@@ -73,11 +73,11 @@
 
 ### 🕒 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
-2. 💪 Opened PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
-3. ❌ Merged PR [#3](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
-4. 💪 Opened PR [#3](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
-5. ❌ Merged PR [#2](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
+1. 🔒 Closed issue [#1](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio/issues/1) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+2. ❗ Opened issue [#1](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio/issues/1) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+3. ❌ Merged PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
+4. 💪 Opened PR [#4](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
+5. ❌ Merged PR [#3](undefined) in [javierhernandezprogramador-stack/javierhernandezprogramador-stack](https://github.com/javierhernandezprogramador-stack/javierhernandezprogramador-stack)
 <!--END_SECTION:activity-->
 
  <div align=center>
