@@ -87,14 +87,6 @@
   
  </div>
 
-### ⏱ Streak Stats
-
- <div align=center>
-  
-  <img src="https://streak-stats.demolab.com?user=javierhernandezprogramador-stack&theme=dracula&cache_seconds=86400"/>
-
- </div>
-
 ### 📈 Activity Graph
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javierhernandezprogramador-stack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
