@@ -21,6 +21,7 @@
 - 🧩 Experience with **PHP**, **MySQL / PostgreSQL / SQL Server**, and frontend fundamentals
 
 📌 Featured Projects:
+
 - 🏨 **Hotel Management System** — Java (Jakarta EE) + HTML/CSS/JS
 - 🌸 **Floristry System** — PHP backend
 - 💰 **Financial System** — PHP backend
@@ -46,12 +47,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-
 #### 📚 Libraries
 
 ![JPA](https://img.shields.io/badge/JPA-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-%233F4F75.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 #### 🔧 Tools
 
@@ -115,20 +114,14 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="mailto:javier.hernandez.programador@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hernandezsanchez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/50372988389
+">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
+<h5 align="center">No necesitas ser perfecto. Solo necesitas ser un 1% mejor cada día.</h5>
