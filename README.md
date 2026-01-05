@@ -91,7 +91,7 @@
 
  <div align=center>
   
-  <img src="https://streak-stats.demolab.com?user=javierhernandezprogramador-stack&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=javierhernandezprogramador-stack&theme=dracula&cache_seconds=86400"/>
 
  </div>
 
