@@ -21,6 +21,7 @@
 - 🧩 Experience with **PHP**, **MySQL / PostgreSQL / SQL Server**, and frontend fundamentals
 
 📌 Featured Projects:
+
 - 🏨 **Hotel Management System** — Java (Jakarta EE) + HTML/CSS/JS
 - 🌸 **Floristry System** — PHP backend
 - 💰 **Financial System** — PHP backend
@@ -46,12 +47,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-
 #### 📚 Libraries
 
 ![JPA](https://img.shields.io/badge/JPA-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-%233F4F75.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
 #### 🔧 Tools
 
@@ -92,7 +91,7 @@
 
  <div align=center>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javierhernandezprogramador-stack&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=javierhernandezprogramador-stack&theme=dracula" />
 
  </div>
 
