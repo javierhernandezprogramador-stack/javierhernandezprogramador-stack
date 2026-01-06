@@ -72,11 +72,11 @@
 
 ### 🕒 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
-2. 💪 Opened PR [#3](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
-3. ❌ Merged PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
-4. 💪 Opened PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
-5. 🔒 Closed issue [#1](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio/issues/1) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+1. 🚀 Published release [v0.1.0](https://github.com/javierhernandezprogramador-stack/tercerRepo/releases/tag/v0.1.0) in [javierhernandezprogramador-stack/tercerRepo](https://github.com/javierhernandezprogramador-stack/tercerRepo)
+2. ❌ Merged PR [#3](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+3. 💪 Opened PR [#3](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+4. ❌ Merged PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+5. 💪 Opened PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
 <!--END_SECTION:activity-->
 
 ### 💳 Github Profile Summary Card
