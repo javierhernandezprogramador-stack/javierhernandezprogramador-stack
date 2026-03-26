@@ -72,9 +72,9 @@
 
 ### 🕒 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/JuanPildoras/Proyecto-web-empresa-C/pull/160#issuecomment-3954875734) in [JuanPildoras/Proyecto-web-empresa-C](https://github.com/JuanPildoras/Proyecto-web-empresa-C)
-2. 💪 Opened PR [#160](undefined) in [JuanPildoras/Proyecto-web-empresa-C](https://github.com/JuanPildoras/Proyecto-web-empresa-C)
-3. 💪 Opened PR [#3](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
+1. 💪 Opened PR [#1](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+2. 🗣 Commented on [#160](https://github.com/JuanPildoras/Proyecto-web-empresa-C/pull/160#issuecomment-3954875734) in [JuanPildoras/Proyecto-web-empresa-C](https://github.com/JuanPildoras/Proyecto-web-empresa-C)
+3. 💪 Opened PR [#160](undefined) in [JuanPildoras/Proyecto-web-empresa-C](https://github.com/JuanPildoras/Proyecto-web-empresa-C)
 4. ❌ Merged PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
 5. 💪 Opened PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
 <!--END_SECTION:activity-->
