@@ -8,7 +8,8 @@
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Backend+Java+Developer" alt="Typing SVG" /></a>
+  <!--<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Backend+Java+Developer" alt="Typing SVG" /></a>-->
+   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Ingeniero+de+Software;Full+Stack+Developer+Jr" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -120,7 +121,7 @@
 
 ---
 
-### 🔗 &nbsp;Contact Yo
+### 🔗 &nbsp;Contáctame
 
 <div align="center">
 <a href="mailto:javier.hernandez.programador@gmail.com">
