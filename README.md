@@ -13,33 +13,41 @@
 
 ---
 
-👨‍💻 Backend Java Developer | Spring Boot · Jakarta EE · REST APIs
+👨‍💻 Full Stack Developer Jr | PHP · SQL · JavaScript · Docker · SASS · REST APIs
 
-- 🔧 Build RESTful APIs with **Java (Spring Boot / Jakarta EE)**
-- 🔐 Handle backend logic, authentication and business rules
-- 🔄 Integrate backend services with web frontends
-- 🧩 Experience with **PHP**, **MySQL / PostgreSQL / SQL Server**, and frontend fundamentals
+- 🔧 Desarrollo de aplicaciones web bajo arquitectura MVC y patrón Active Record
+- 🔐 Implementación de autenticación con sesiones y JWT
+- 🔄 Integración de APIs REST y servicios backend con frontends web
+- 🧩 Experiencia con PHP (OctoberCMS), MySQL / PostgreSQL, HTML, CSS, JavaScript, SASS, Bootstrap
+- 🐳 Uso de Docker y control de versiones con Git
+- 📩 Envío de correos con PHPMailer y mensajería con RabbitMQ
+- 💳 Integración de pasarelas de pago (PayPal)
+- 📦 Desarrollo de sistemas CRUD completos (inventario, ventas, citas, gestión de proyectos)
+- ⚡ Implementación de Virtual DOM en JavaScript y buenas prácticas de desarrollo
 
-📌 Featured Projects:
+📌 Protectos:
 
-- 🏨 **Hotel Management System** — Java (Jakarta EE) + HTML/CSS/JS
-- 🌸 **Floristry System** — PHP backend
-- 💰 **Financial System** — PHP backend
-- 👟 **Shoe Store System** — PHP backend
+- 👟 Sistema de Gestión para Zapatería — PHP + MySQL + JavaScript (compras, ventas e inventario)
+- 🌸 Sistema de Gestión para Floristería — PHP + MySQL + JavaScript (ventas e inventario)
+- 💰 Sistema de Gestión de Préstamos — PHP + MySQL + JavaScript
+- 🔬 Sistema de Gestión de Proyectos de Investigación — PHP + PostgreSQL + JavaScript
+- 🏠 Sistema de Bienes Raíces — PHP + MySQL + SASS + Docker (gestión de propiedades y catálogo)
+- 💇 Sistema de Reservación de Citas — PHP + MySQL + SASS + Docker
+- 📋 Sistema de Gestión de Proyectos y Tareas — PHP + MySQL + SASS + Docker
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+#### 🔧 Lenguajes
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### 🖥️ Frameworks
+<!--#### 🖥️ Frameworks-->
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+<!--![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)-->
 
 #### 🛢️ Databases
 
@@ -49,7 +57,7 @@
 
 #### 📚 Libraries
 
-![JPA](https://img.shields.io/badge/JPA-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+<!--![JPA](https://img.shields.io/badge/JPA-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)-->
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-%233F4F75.svg?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🔧 Tools
@@ -67,10 +75,11 @@
 ![OctoberCMS](https://img.shields.io/badge/OctoberCMS-%23FF6A00.svg?style=for-the-badge&logo=octobercms&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![WildFly](https://img.shields.io/badge/WildFly-%23000000.svg?style=for-the-badge&logo=wildfly&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Profile Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas del perfil
 
-### 🕒 Recent Activity
+### 🕒 Actividad Reciente
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
 2. ❌ Merged PR [#1](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
@@ -79,7 +88,7 @@
 5. 💪 Opened PR [#2](undefined) in [javierhernandezprogramador-stack/miTercerRepositorio](https://github.com/javierhernandezprogramador-stack/miTercerRepositorio)
 <!--END_SECTION:activity-->
 
-### 💳 Github Profile Summary Card
+### 💳 Tarjeta de resumen del perfil de Github
 
  <div align=center>
   
@@ -87,11 +96,11 @@
   
  </div>
 
-### 📈 Activity Graph
+### 📈 Gráfico de actividad
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javierhernandezprogramador-stack&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
+### 📊 Lenguajes más usados
 
  <div align=center>
   
@@ -101,7 +110,7 @@
 
  </div>
 
-### 🚀 Developer Activity
+### 🚀 Actividad de desarrollo
 
 <div align=center>
 
@@ -111,7 +120,7 @@
 
 ---
 
-### 🔗 &nbsp;Contact Me
+### 🔗 &nbsp;Contact Yo
 
 <div align="center">
 <a href="mailto:javier.hernandez.programador@gmail.com">
