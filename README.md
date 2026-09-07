@@ -82,11 +82,11 @@
 
 ### 🕒 Actividades Recientes
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#39](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
-2. 💪 Opened PR [#39](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
-3. ❌ Merged PR [#38](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
-4. 💪 Opened PR [#38](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
-5. ❌ Merged PR [#37](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+1. ❌ Merged PR [#41](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+2. 💪 Opened PR [#41](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+3. ❌ Merged PR [#40](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+4. 💪 Opened PR [#40](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
+5. ❌ Merged PR [#39](undefined) in [GiovanniGomz/SitioWebIEHAA](https://github.com/GiovanniGomz/SitioWebIEHAA)
 <!--END_SECTION:activity-->
 
 ### 💳 Tarjeta de resumen del perfil de Github
